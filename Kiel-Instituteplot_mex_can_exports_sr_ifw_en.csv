@@ -1,0 +1,6 @@
+country,scenario,timeframe,variable,value,country_name,country_name_de,scenario_name
+CAN,goods_oil,sr,production_total_real_change,-0.0288314164521653,Canada,Kanada,"US tariffs (25%, incl. oil)"
+EU27,goods_oil,sr,production_total_real_change,-0.00022466484372663,EU27,EU27,"US tariffs (25%, incl. oil)"
+Global,goods_oil,sr,production_total_real_change,-0.00163885396457775,Global,Global,"US tariffs (25%, incl. oil)"
+MEX,goods_oil,sr,production_total_real_change,-0.0420643966104615,Mexico,Mexiko,"US tariffs (25%, incl. oil)"
+USA,goods_oil,sr,production_total_real_change,-0.00207210288763937,United States,Vereinigte Staaten,"US tariffs (25%, incl. oil)"
